@@ -12,7 +12,7 @@ For **DAY_030**, the final day of my 30-day daily code challenge, I created an *
 
 ## Inspiration
 
-I was inspired by award-winning website designs and my love for *Serial Experiments Lain*. This anime's surreal and contemplative nature influenced my choice to create an experience where images scatter and subtly shift positions, adding an interactive layer that’s both playful and mysterious. Also we all love **lain**.
+I was inspired by award-winning website designs from Awwwards and my love for *Serial Experiments Lain*. This anime's surreal and contemplative nature influenced my choice to create an experience where images scatter and subtly shift positions, adding an interactive layer that’s both playful and mysterious. Also we all love **lain**.
 
 ---
 
